@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb0aaf8a-5c9b-4a97-b80b-00ffd4f25428" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1X67ejgiKSDEwncSa0SQ6IXnunp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb0aaf8a-5c9b-4a97-b80b-00ffd4f25428" name="Default Changelist" comment="" />
+      <created>1580354787058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580354787058</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="412" y="201" width="598" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580443671310">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="412" y="201" width="598" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741/1366.0.1024.768@67.27.1299.741" timestamp="1580443671310" />
+    <state x="280" y="230" key="com.intellij.ide.util.TipDialog" timestamp="1581321307757">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="1534" y="210" key="com.intellij.ide.util.TipDialog/67.27.1299.741/1366.0.1024.768@1366.0.1024.768" timestamp="1580729443926" />
+    <state x="280" y="230" key="com.intellij.ide.util.TipDialog/67.27.1299.741/1366.0.1024.768@67.27.1299.741" timestamp="1581321307757" />
+  </component>
+</project>
